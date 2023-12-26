@@ -1,0 +1,103 @@
+{
+  "allVideos": [
+    {
+      "id": "2",
+      "caption": "Salar trailer",
+      "url": "https://www.tollywood.net/wp-content/uploads/2020/12/Salaar-First-look-from-Prashanth-Neel-film-The-most-violent-Prabhas.jpg",
+      "link": "https://www.youtube.com/embed/HihakYi5M2I"
+    },
+    {
+      "id": "4",
+      "caption": "Inception",
+      "url": "https://th.bing.com/th/id/OIP.LC2tWp65dswQeYXTB3_7VgHaLH?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/YoHD9XEInc0"
+    },
+    {
+      "id": "5",
+      "caption": "Don't Breathe",
+      "url": "https://teamjvs.com/wp-content/uploads/2021/08/dontbreathe-part-1-poster.jpeg",
+      "link": "https://www.youtube.com/embed/76yBTNDB6vU"
+    },
+    {
+      "id": "7",
+      "caption": "Interstellar",
+      "url": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2021/08/19085635/gEU2QniE6E77NI6lCU6MxlNBvIx-scaled.jpg",
+      "link": "https://www.youtube.com/embed/MW8RKweDoaE"
+    },
+    {
+      "id": "10",
+      "caption": "Starboy",
+      "url": "https://image-cdn.hypb.st/https://hypebeast.com/image/2018/11/the-weeknd-starboy-album-001.jpg?q=75&w=800&cbr=1&fit=max",
+      "link": "https://www.youtube.com/embed/34Na4j8AVgA"
+    },
+    {
+      "id": "1",
+      "caption": "Leo Trailer",
+      "url": "https://www.wallsnapy.com/img_gallery/vijay-leo-movie-stills-hd-wallpapers-1200px-4288182.jpg",
+      "link": "https://www.youtube.com/embed/Po3jStA673E"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Interstellar",
+      "link": "https://www.youtube.com/embed/HihakYi5M2I",
+      "timeStamp": "12/19/2023, 05:08:02 PM",
+      "id": 1
+    },
+    {
+      "caption": "Leo trailer",
+      "link": "https://www.youtube.com/embed/IqwIOlhfCak",
+      "timeStamp": "12/19/2023, 05:31:18 PM",
+      "id": 2
+    },
+    {
+      "caption": "Salar trailer",
+      "link": "https://www.youtube.com/embed/HihakYi5M2I",
+      "timeStamp": "12/19/2023, 05:31:42 PM",
+      "id": 3
+    },
+    {
+      "caption": "Interstellar",
+      "link": "https://www.youtube.com/embed/HihakYi5M2I",
+      "timeStamp": "12/19/2023, 10:05:10 PM",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Movie Trailers",
+      "allVideos": []
+    },
+    {
+      "id": 2,
+      "categoryName": "Movies",
+      "allVideos": [
+        {
+          "id": "5",
+          "caption": "Don't Breathe",
+          "url": "https://teamjvs.com/wp-content/uploads/2021/08/dontbreathe-part-1-poster.jpeg",
+          "link": "https://www.youtube.com/embed/76yBTNDB6vU"
+        },
+        {
+          "id": "4",
+          "caption": "Inception",
+          "url": "https://th.bing.com/th/id/OIP.LC2tWp65dswQeYXTB3_7VgHaLH?rs=1&pid=ImgDetMain",
+          "link": "https://www.youtube.com/embed/YoHD9XEInc0"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoryName": "Songs",
+      "allVideos": [
+        {
+          "id": "10",
+          "caption": "Starboy",
+          "url": "https://image-cdn.hypb.st/https://hypebeast.com/image/2018/11/the-weeknd-starboy-album-001.jpg?q=75&w=800&cbr=1&fit=max",
+          "link": "https://www.youtube.com/embed/34Na4j8AVgA"
+        }
+      ]
+    }
+  ]
+}
